@@ -1,0 +1,14 @@
+apri cmd con diritti amministrativi e 
+cd C:\Users\941547\Documents\GitHub\Password-Cracker
+C:\Users\941547\Documents\GitHub\Password-Cracker>python3.11.exe Pass_cracker.py
+
+usage: crack.py [-h] [-H HASH] [-w WORDLIST] [-f FORMAT] [-l]
+
+options:
+  -h, --help            show this help message and exit
+  -H HASH, --hash HASH  Enter Your hash
+  -w WORDLIST, --wordlist WORDLIST
+                        Give the wordlist path
+  -f FORMAT, --format FORMAT
+                        Specify the hash format
+  -l, --list-format     list the avilable format
